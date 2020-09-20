@@ -19,7 +19,7 @@ public class user {
     }
     @RequestMapping("/user1")
     public ResponseEntity<String> a1(){
-        return ResponseEntity.ok("哈1");
+        return ResponseEntity.ok("ssssa");
     }
 
 }
